@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of olleksi/flarum-swipe.** Not for installation: use [Packagist](https://packagist.org/packages/olleksi/flarum-swipe) or the [upstream repository](https://github.com/olleksi/flarum-swipe).
 
-**0** versions archived · Latest: [`v0.0.4`](https://github.com/flarchive/olleksi-flarum-swipe/tree/archive/v0.0.4) · License: `MIT` · Flarum: `^1.0`
+**4** versions archived · Latest: [`v0.0.4`](https://github.com/flarchive/olleksi-flarum-swipe/tree/archive/v0.0.4) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2025-11-11 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-swipe/tree/archive/v0.0.1) |
+| `v0.0.2` | 2025-11-12 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-swipe/tree/archive/v0.0.2) |
+| `v0.0.3` | 2025-11-14 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-swipe/tree/archive/v0.0.3) |
+| `v0.0.4` | 2025-11-16 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-swipe/tree/archive/v0.0.4) |
 
 Catalog entry: [packages/olleksi-flarum-swipe.json](https://github.com/flarchive/archive-index/blob/main/packages/olleksi-flarum-swipe.json)
 
